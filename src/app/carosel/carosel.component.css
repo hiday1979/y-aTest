@@ -1,0 +1,31 @@
+.listFram{
+  border:3px solid #d3d3d3;
+  height: 50vh;
+  width: 400px;
+  background: azure;
+}
+
+.listFram h1{
+  text-align: center;
+  color: #ffffff;
+  background:linear-gradient(to right,rgba(0,229,145,1),rgba(47,239,188,1));
+}
+
+th{
+  font-size: 2em;
+  text-align: center;
+  color: #ffffff;
+  background:linear-gradient(to right,rgba(0,229,145,1),rgba(47,239,188,1));
+}
+
+.btnAddItem{
+  width: 100%;
+}
+
+table{
+  border:1px solid #d3d3d3;
+}
+
+td{
+  border:1px solid #d3d3d3;
+}
